@@ -54,17 +54,17 @@ Type: A
 Value: 185.199.108.153 (You can add multiple A records pointing to different GitHub IPs for redundancy)
 TTL: Default or set as per your preference
 >
-The GitHub Pages IPs you can use:
+            The GitHub Pages IPs you can use:
 
-185.199.108.153
-185.199.109.153
-185.199.110.153
-185.199.111.153
+            185.199.108.153
+            185.199.109.153
+            185.199.110.153
+            185.199.111.153
 2. Add a CNAME Record (for www subdomain):
-
-Name: www
-Type: CNAME
-Value: yourusername.github.io
+>
+            Name: www
+            Type: CNAME
+            Value: yourusername.github.io
 
 3. Add a CNAME File in Your GitHub Repository
 In the root of your repository, create a CNAME file containing your custom domain name:
