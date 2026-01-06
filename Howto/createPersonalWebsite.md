@@ -1,6 +1,6 @@
 # Personal website with jekyll themes and github
 
-Personal website creation is a fantastic way to showcase your portfolio, blog, or professional information. GitHub Pages offers a free and straightforward way to host your website easily integrated with a custom domain. In this post, we’ll walk through the steps of setting up a personal website on GitHub Pages and linking it with a custom domain like vjcnp.co.in
+Personal website creation is a fantastic way to showcase your portfolio, blog, or professional information. GitHub Pages offers a free and straightforward way to host your website easily integrated with a custom domain. In this post, we’ll walk through the steps of setting up a personal website on GitHub Pages and linking it with a custom domain like ==vjcnp.co.in==
 
 ### Why Use GitHub Pages?
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files directly from a repository on GitHub and publishes them as a website. It’s an excellent option for developers and non-developers alike because:
@@ -42,10 +42,10 @@ GitHub will now build and deploy your site. It may take a few minutes for the ch
 
 **Step 3**: Configure a Custom Domain
 
-To make your website accessible via a custom domain like example.dev, you’ll need to configure your DNS settings:
+To make your website accessible via a custom domain like vjcnp.co.in, you’ll need to configure your DNS settings:
 
 1. Purchase and Set Up Your Domain
-If you haven’t already, purchase a domain through a registrar (like Google Domains, GoDaddy, or Namecheap). Here, we assume you’ve already purchased youexample.dev.
+If you haven’t already, purchase a domain through a registrar (like Google Domains, GoDaddy, or Namecheap). Here, we assume you’ve already purchased vjcnp.co.in
 
 2. Configure DNS Settings
 In Your Domain Registrar’s DNS Settings:
