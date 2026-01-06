@@ -1,6 +1,6 @@
 # Personal website with jekyll themes and github
 
-Personal website creation is a fantastic way to showcase your portfolio, blog, or professional information. GitHub Pages offers a free and straightforward way to host your website easily integrated with a custom domain. In this post, we’ll walk through the steps of setting up a personal website on GitHub Pages and linking it with a custom domain like ==vjcnp.co.in==
+Personal website creation is a fantastic way to showcase your portfolio, blog, or professional information. GitHub Pages offers a free and straightforward way to host your website easily integrated with a custom domain. In this post, we’ll walk through the steps of setting up a personal website on GitHub Pages and linking it with a custom domain like <mark>vjcnp.co.in</mark>
 
 ### Why Use GitHub Pages?
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files directly from a repository on GitHub and publishes them as a website. It’s an excellent option for developers and non-developers alike because:
