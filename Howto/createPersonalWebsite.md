@@ -10,6 +10,7 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 - *Integration with GitHub*: Automatically updates your website with each new commit to the repository.
 
 **Step 1**: Create Your Website with Jekyll
+
 Jekyll is a static site generator that takes plain text files (like Markdown) and templates (HTML/Liquid) and outputs a complete, ready-to-serve static website. It is particularly popular for blogs and personal sites, and is the engine behind GitHub Pages.
 
 Jekyll handles two main types of content: Pages and Posts.
@@ -37,9 +38,10 @@ Navigate to the “Settings” tab.
 Scroll down to the “Pages” section.
 Under “Source,” select the main branch and set the root directory as /.
 Save the settings.
-GitHub will now build and deploy your site. It may take a few minutes for the changes to reflect. Once done, your site will be available at https://yourusername.github.io.
+GitHub will now build and deploy your site. It may take a few minutes for the changes to reflect. Once done, your site will be available, somthing like https://vijayakumarcnp.github.io.
 
 **Step 3**: Configure a Custom Domain
+
 To make your website accessible via a custom domain like example.dev, you’ll need to configure your DNS settings:
 
 1. Purchase and Set Up Your Domain
@@ -76,13 +78,17 @@ Commit and push this file to your repository. This file tells GitHub Pages to us
 After the DNS changes have propagated, go back to the GitHub Pages settings in your repository. Check the box to enforce HTTPS so that your website is served securely.
 
 **Step 4**: Update Your Favicon and Title
+
+
 To customize the tab bar icon and title that appears in the web browser:
 
-Favicon: Place your favicon (favicon.ico or favicon.png) in the root directory. Update the <link> tag in your index.html file:
-<link rel="icon" href="favicon.png" type="image/png">
-2. Title: Change the content of the <title> tag in your index.html file:
+1. Favicon: Place your favicon (favicon.ico or favicon.png) in the root directory. Update the <link> tag in your index.html file:
+>
+            <link rel="icon" href="favicon.png" type="image/png">
 
-<title>My Portfolio</title>
+2. Title: Change the content of the <title> tag in your index.html file:
+>
+            <title>My Portfolio</title>
 
 
 ### Conclusion
