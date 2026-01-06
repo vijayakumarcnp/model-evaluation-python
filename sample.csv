@@ -1,0 +1,10 @@
+Name_Hotel,Num_Empl,Average_Sales(cr),Cust_Satisfaction,Mode,Online_Order
+Saravana Bhavan,20,20,3,Veg,Swiggy
+Meenkshi Bhavan,10,2,4,Veg,Zomato
+Muniyani Vilas,5,0.5,2,Non-Veg,Both
+Raj Vilas,12,2,3,Veg,Swiggy
+Mani Vilas,14,3,5,Non-Veg,Zomato
+Geetha Cafe,6,4,2,Non-Veg,Both
+Udupi,3,10,0,Non-Veg,Swiggy
+Thalapakatti,7,3,1,Veg,Zomato
+Street Vendor,1,5,5,Non-Veg,Both
